@@ -8,7 +8,7 @@
 
 3. Install composer following by this command: `composer install`
 
-4. Copy `.env.example` file to `.env` on the root folder. You can type `copy .env.example .env` or `cp .env.example .env` using terminal in pathshala-api directory.
+4. Copy `.env.example` file to `.env` on the root folder. You can type `copy .env.example .env` or `cp .env.example .env` using terminal in secure-password directory.
 
 5. Open your database ***XAMPP / LAMP / HeidiSQL*** (Whatever you use).
    Create a new database with any database name. `For Example:  secure_password`
