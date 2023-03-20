@@ -27,7 +27,6 @@ php artisan optimize:clear
 ```
 php artisan migrate:fresh --seed
 ```
-
 ------------
 
 8. Now run this command `php artisan serve`. Then open browser and go to `http://127.0.0.1:8000`
